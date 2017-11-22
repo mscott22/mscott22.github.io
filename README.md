@@ -1,10 +1,12 @@
 # stand-alone-portfolio
-Stand Alone Portfolio
+Mariah Scott Portfolio
 
 ## content priority outline
+
 
 ## code samples
 
 ## photos
+
 
 ## logos
