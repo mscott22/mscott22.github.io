@@ -9,6 +9,14 @@
 
 
 //Styling
+.me{
+    max-width:30%;
+    border-radius: 50%;
+    z-index: 1;
+    border: 2px solid black;
+   text-align: center;
+    
+}
 
 .input, .submit{
   border-radius:5px;
