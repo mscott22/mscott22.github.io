@@ -21,7 +21,7 @@ Work samples I will be including will be the following:
 4. Contact: In this section, I would like to include a way for people to contact me. I would like to have a text field that they are able to type the email such as this field I linked below.
 
 
-## code samples
+## code samples / References
 
 Contact me field code sample: 
 https://www.123contactform.com/html-contact-form/
@@ -29,6 +29,10 @@ https://www.123contactform.com/html-contact-form/
 Header nav bar:
 
 https://www.w3schools.com/howto/howto_js_topnav.asp
+
+Social footer bar:
+
+https://codepen.io/Deadlymuffin/pen/hGiqo/
 
 
 ## photos
