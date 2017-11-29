@@ -98,17 +98,25 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-
 }
-
 
 //END
+.likes{
+    max-width: 10%; 
+}
 
-h2{
-    font-family: impact;
-    
+#contact, #portfolio{
+    font-size:230pt;
     
 }
+h1{
+  font-size:315pt;
+   font-family: impact;
+  background: #FFF7AB;
+  text-align:center;
+  color:white;
+}
+
 .me{
     max-width:20%;
     border-radius: 50%;
@@ -152,7 +160,7 @@ a:hover{
   text-decoration:none;
 }
 
-h1{
+h2{
   text-align:center;
   font-size:3em;
   letter-spacing: 3px;
