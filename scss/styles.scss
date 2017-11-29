@@ -101,20 +101,37 @@ ul.social-icons {
 }
 
 //END
-.likes{
-    max-width: 10%; 
+figure{
+    align-content: center;
 }
+img{
+   margin: 30px;
+    align-content: center;
+    max-width: 10%;
+}
+
 
 #contact, #portfolio{
     font-size:230pt;
+    background-color:#fff7ac;
+    color:white;
+    font-family: impact;
+    text-align: center;
     
 }
+
 h1{
-  font-size:315pt;
-   font-family: impact;
-  background: #FFF7AB;
-  text-align:center;
-  color:white;
+    font-size:315pt;
+    background-color:#fff7ac;
+    color:white; 
+    font-family: impact;
+    text-align: center;
+    
+}
+
+a, area, button, input, label, select, summary, textarea
+{
+ width: 600px;
 }
 
 .me{
@@ -129,14 +146,18 @@ h1{
 
 .input, .submit{
   border-radius:5px;
-  width:300px;
+  width:600px;
+
  
 }
 
 #contact_form{
-  font-size:.95em;
+  font-size:.925em;
   font-family:avenir;
   text-align:left;
+margin:0 auto;
+
+    
 }
   
 .headerbar{
