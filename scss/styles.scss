@@ -101,9 +101,18 @@ ul.social-icons {
 }
 
 //END
-figure{
-    align-content: center;
+
+[type=submit]{
+    border-radius: 5px;
+    font-family: avenir;
+    
 }
+
+.book, .movies{
+    margin: 0 auto;
+    display: flex;
+}
+
 img{
    margin: 30px;
     align-content: center;
