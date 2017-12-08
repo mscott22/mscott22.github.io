@@ -1,6 +1,4 @@
 @import "normalize";
-@import "lightgallery";
-@import "lg-transitions";
 @import "uikit.min";
 @import "uikit-rtl.min";
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
@@ -110,7 +108,7 @@ ul.social-icons {
 
 .book, .movies{
     margin: 0 auto;
-    display: flex;
+
 }
 
 img{
